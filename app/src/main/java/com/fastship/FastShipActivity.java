@@ -120,6 +120,7 @@ public class FastShipActivity extends AppCompatActivity
                 fragment = new HomeFragment();
                 break;
             case R.id.nav_manage_order:
+                fragment = new HomeFragment();
                 break;
             case R.id.nav_infomation:
                 fragment = new FragmentHistory();
