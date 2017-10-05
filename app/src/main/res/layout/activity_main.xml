@@ -9,8 +9,8 @@
 
     <Button
         android:layout_alignParentBottom="true"
-        android:layout_marginLeft="70dp"
-        android:layout_marginRight="70dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
         android:id="@+id/btnShop"
         android:text="Shop"
         android:textColor="@color/colorLocation"
@@ -22,8 +22,8 @@
         android:textColor="@color/colorLocation"
         android:layout_marginBottom="6dp"
         android:background="@drawable/button_background"
-        android:layout_marginLeft="70dp"
-        android:layout_marginRight="70dp"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
         android:layout_above="@id/btnShop"
         android:id="@+id/btnShipper"
         android:text="Shipper"
